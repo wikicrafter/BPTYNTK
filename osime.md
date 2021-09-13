@@ -2,7 +2,7 @@
 
 _IN the 1980s, Bill Gates and Steve Jobs were fighting over how to make MS-DOS better_
 
-_Steve Jobs copied the idea from Xerox, which came up with the GUI(Graphicla User Interface)_
+_Steve Jobs copied the idea from Xerox, which came up with the GUI(Graphical User Interface)_
 
 _Before GUI, operating systems were text based user interfaces_
 
