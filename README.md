@@ -19,3 +19,7 @@
 
 
 # New section will be soon
+
+ <footer>
+        <p>&copy; Free for anyone  </p>
+  </footer>
