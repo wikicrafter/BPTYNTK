@@ -25,3 +25,7 @@
  
 
 # New section will be soon
+
+ <footer>
+        <p>&copy; Free   </p>
+  </footer>
