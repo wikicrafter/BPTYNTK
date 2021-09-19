@@ -17,5 +17,11 @@
 ### This is the end of basics about computers
 <hr>
 
+# Internet section - later
+<hr>
+
+# Front Back & Stacks  Section
+
+ 
 
 # New section will be soon
