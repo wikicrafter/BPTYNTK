@@ -21,10 +21,33 @@
 <hr>
 
 # Front Back & Stacks  Section
+[What is a Front-end vs Back-end](WisF&B.md)
 
+[Let's talk briefly about backend](Letstalkaboutbackend.md)
+
+[Let's talk briefly about Python programming](LetsTalkAboutPython.md)
+
+[Let's talk briefly about PHP](phpLanguage.md)
+
+[Let's talk briefly about Ruby](Ruby.md)
+
+[What is a tech stack?](Techstack.md)
+
+[Common stacks for web](commonSTACKSforWeb.md)
+
+[What is a Programming Language?](whatisaprogramminglanguage.md)
+
+[Briefly about html](HTMLB.md)
+
+[Briefly about CSS](CSSB.md)
+
+[Briefly about JavaScript](JSB.md)
+
+<hr>
  
 
 # New section will be soon
+# Core concept of codding
 
  <footer>
         <p>&copy; Free   </p>
