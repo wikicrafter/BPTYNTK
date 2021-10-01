@@ -43,9 +43,14 @@
 
 [Briefly about JavaScript](JSB.md)
 
+[Core concepts of codding]()
 <hr>
- 
+# Core concept of codding
 
+[Syntax](syntax.md)
+
+
+<hr>
 # New section will be soon
 # Core concept of codding
 
