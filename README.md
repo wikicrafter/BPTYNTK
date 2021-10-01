@@ -58,6 +58,8 @@
 
 [Concept of string](string0.md)
 
+[Concept of arrays](arrays0.md)
+
 <hr>
 # New section will be soon
 # Core concept of codding
