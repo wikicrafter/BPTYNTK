@@ -60,6 +60,12 @@
 
 [Concept of arrays](arrays0.md)
 
+
+
+# Framework & API
+
+
+
 <hr>
 # New section will be soon
 # Core concept of codding
