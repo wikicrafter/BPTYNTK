@@ -45,6 +45,7 @@
 
 [Core concepts of codding]()
 <hr>
+
 # Core concept of codding
 
 [Syntax](syntax.md)
