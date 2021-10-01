@@ -52,6 +52,8 @@
 
 [Explaining concept of a variable](variable0.md)
 
+[Printing definition in programming](printing0.md)
+
 
 <hr>
 # New section will be soon
