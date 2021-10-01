@@ -50,6 +50,8 @@
 
 [Syntax](syntax.md)
 
+[Explaining concept of a variable](variable0.md)
+
 
 <hr>
 # New section will be soon
