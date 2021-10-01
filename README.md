@@ -56,6 +56,7 @@
 
 [Commenting definition in programming](commenting0.md)
 
+[Concept of string](string0.md)
 
 <hr>
 # New section will be soon
