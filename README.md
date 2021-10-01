@@ -20,7 +20,7 @@
 # Internet section - later
 <hr>
 
-# Front Back & Stacks  Section
+# Front-end Back-end & Stacks  Section
 [What is a Front-end vs Back-end](WisF&B.md)
 
 [Let's talk briefly about backend](Letstalkaboutbackend.md)
