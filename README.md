@@ -77,8 +77,6 @@
 
 [What is a API](api1.md)
 
-[]()
-
 <hr>
 # New section will be soon
 # Core concept of codding
