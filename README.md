@@ -87,7 +87,19 @@
 
 [New type of CMS](new_cms.md)
 
+<hr>
 
+# Advance concepts
+
+[Git and GitHub](git_github.md)
+
+[Object Oriented Programming](oop.md)
+
+[Continuous integration meaning](conint.md)
+
+<hr>
+
+# Tech Trends
 
 <hr>
 # New section will be soon
