@@ -85,6 +85,8 @@
 
 [Most popular CMS](big_cms.md)
 
+[New type of CMS](new_cms.md)
+
 
 
 <hr>
