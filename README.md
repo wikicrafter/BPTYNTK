@@ -1,5 +1,5 @@
 # Before Programming Things You Need To Know
-
+ 
 [Why to care about computers ](WhyToCareAboutComputers.md) <br>
 
 [What is a computer ](What_Is_a_computer.md) <br>
@@ -104,6 +104,7 @@
 <hr>
 # New section will be soon
 
+[Demo on web](https://wikicrafter.github.io/BPTYNTK/)
  <footer>
         <p>&copy; Free   </p>
   </footer>
