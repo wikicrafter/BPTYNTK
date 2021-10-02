@@ -103,7 +103,6 @@
 
 <hr>
 # New section will be soon
-# Core concept of codding
 
  <footer>
         <p>&copy; Free   </p>
