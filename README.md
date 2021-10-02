@@ -71,7 +71,13 @@
 
 [Back-end framework](b_end.md)
 
+[What is an IDE](ide.md)
 
+[Libraries](libraries0.md)
+
+[What is a API](api1.md)
+
+[]()
 
 <hr>
 # New section will be soon
