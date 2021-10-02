@@ -101,6 +101,21 @@
 
 # Tech Trends
 
+[Full stack JS](fullstackjs.md)
+
+[Pair programming](pairpro.md)
+
+[Full stack design](fullstackdesign.md)
+
+[Hybrid APPs](hybridapps.md)
+
+[]()
+
+[]()
+
+[]()
+
+
 <hr>
 # New section will be soon
 
