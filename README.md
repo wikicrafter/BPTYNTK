@@ -78,6 +78,11 @@
 [What is a API](api1.md)
 
 <hr>
+
+# Content Management System
+
+
+<hr>
 # New section will be soon
 # Core concept of codding
 
