@@ -43,7 +43,6 @@
 
 [Briefly about JavaScript](JSB.md)
 
-[Core concepts of codding]()
 <hr>
 
 # Core concept of codding
