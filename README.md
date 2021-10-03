@@ -127,6 +127,8 @@
 
 [How to start learning each languages](htlel.md)
 
+[Should I specialize with new technologies?](sswnt.md)
+
 
 <hr>
 
