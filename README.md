@@ -125,7 +125,7 @@
 
 
 <hr>
-# New section will be soon
+
 
 [Demo on web](https://wikicrafter.github.io/BPTYNTK/)
  <footer>
