@@ -109,6 +109,12 @@
 
 [Hybrid APPs](hybridapps.md)
 
+[Responsive design](responsivedesign.md)
+
+[Web based platforms](wbp.md)
+
+
+
 []()
 
 []()
