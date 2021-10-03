@@ -125,6 +125,8 @@
 
 [How to learn back-end](htlb.md)
 
+[How to start learning each languages](htlel.md)
+
 
 <hr>
 
