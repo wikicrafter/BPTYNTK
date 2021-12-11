@@ -20,7 +20,7 @@ _The old computers was giant tubes, and they were using air instead of electrici
 ## There is a spectrum of programming code, from low level to high level code
 
 
-##### Love level code:
+##### Low level code:
 * used by basic system and basic pieces of hardware
 * long, inefficient, hard to read or write
 * infinitely customizable
@@ -35,7 +35,7 @@ _The old computers was giant tubes, and they were using air instead of electrici
 ##### High level code:
 * used by programmers
 * designed to make things faster
-* shorter, easier ro read
+* shorter, easier to read
 * less descriptive and more restricted
 
 
