@@ -2,7 +2,7 @@
 
 _Before operating systems, only highly technician people could use computers_
 
-_Operating systems were the world's firs software_
+_Operating systems were the world's first software_
 
 ## A software is an application or a system of instructions and logic that exists within the hardware and is used to control the hardware
 
