@@ -6,5 +6,5 @@
 * Continuous integration
   
 > This system makes solving problems easier and makes the development process faster
-> It also used by large teams 
+> It's also used by large teams 
 
