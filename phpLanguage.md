@@ -2,7 +2,7 @@ _What you need to know about PHP_
 
 _PHP stands for "PHP Hypertext Preprocessor"_
 
-_PHP is one of the well known backend language and it has the larges community of developers_
+_PHP is one of the well known backend language and it has the largest community of developers_
 
 _PHP is an open source, anyone can use it and contribute to make it better_
 
