@@ -1,4 +1,4 @@
-_Any web STACK has 4 components:operating system, server system, database and back-end language_
+_Any web STACK has 4 components: operating system, server system, database and back-end language_
 
 _LAMP is the oldest and most popular_
 
