@@ -1,5 +1,5 @@
 ### WordPress
-> The worlds largest and most popular CMS
+> The world's largest and most popular CMS
 > 22% of entire internet is built on it
 > It has tons of templates, plugins, and extensions
 > It can handle mostly everything (payments, email lists, post scheduling etc...)
@@ -18,5 +18,5 @@
 > It's CMS that handles e-commerce / online stores
 > It helps with inventory management, SKUs, and product Imagery
 > It's huge and popular
->> All this CMS are built in PHP, they are easy to set up, and they are mostly free to use
+>> All these CMS are built in PHP, they are easy to set up, and they are mostly free to use
 

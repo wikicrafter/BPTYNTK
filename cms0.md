@@ -9,6 +9,6 @@ _Without CMS you would have to build everything from scratch in order to put you
 
 _Using CMS makes this whole process easier and int makes the site look better._
 
-_CMS handles your content, it let's you manage commenting, share information, quickly change how site works, etc._
+_CMS handles your content, it lets you manage commenting, share information, quickly change how site works, etc._
 
 _You don't have to be a programmer to use CMS._
